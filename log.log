@@ -1,0 +1,58 @@
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+import
+File name:
+cards.txt
+10 cards have been loaded.
+
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+ask
+How many times to ask?
+5
+Print the definition of "1":
+6
+Wrong. The right answer is "1", but your definition is correct for "6".
+
+Print the definition of "8":
+8
+Correct!
+
+Print the definition of "4":
+5
+Wrong. The right answer is "4", but your definition is correct for "5".
+
+Print the definition of "0":
+3
+Wrong. The right answer is "0", but your definition is correct for "3".
+
+Print the definition of "6":
+6
+Correct!
+
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+ask
+How many times to ask?
+5
+Print the definition of "8":
+4
+Wrong. The right answer is "8", but your definition is correct for "4".
+
+Print the definition of "0":
+1
+Wrong. The right answer is "0", but your definition is correct for "1".
+
+Print the definition of "1":
+1
+Correct!
+
+Print the definition of "4":
+4
+Correct!
+
+Print the definition of "0":
+0
+Correct!
+
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+log
+File name:
+log.log
